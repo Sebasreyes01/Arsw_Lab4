@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f01ecf8f-0102-488f-8819-497d2bda758c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/myrestaurant/restcontrollers/OrdersAPIController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/myrestaurant/restcontrollers/OrdersAPIController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,46 +48,40 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1157514756">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gitignore" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/eci/arsw/myrestaurant/restcontrollers/OrdersAPIController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/eci/arsw/myrestaurant/services/RestaurantOrderServicesStub.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="683">
-              <caret line="96" column="68" lean-forward="true" selection-start-line="96" selection-start-column="68" selection-end-line="96" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/eci/arsw/myrestaurant/beans/impl/BasicBillCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="16" column="78" selection-start-line="16" selection-start-column="78" selection-end-line="16" selection-end-column="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/eci/arsw/myrestaurant/model/Order.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="55" column="30" lean-forward="true" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -96,6 +90,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/edu/eci/arsw/myrestaurant/restcontrollers/OrdersAPIController.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -104,6 +99,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
@@ -117,92 +119,61 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="restapidemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arsw_Lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="Arsw_Lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arsw_Lab4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="restapidemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arsw_Lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="Arsw_Lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arsw_Lab4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="restapidemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arsw_Lab3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="restapidemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arsw_Lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="Arsw_Lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arsw_Lab4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="restapidemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arsw_Lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="Arsw_Lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arsw_Lab4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="myrestaurant" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="restapidemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arsw_Lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="Arsw_Lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arsw_Lab4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="myrestaurant" type="462c0819:PsiDirectoryNode" />
-              <item name="beans" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="restapidemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arsw_Lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="Arsw_Lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arsw_Lab4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="myrestaurant" type="462c0819:PsiDirectoryNode" />
-              <item name="beans" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="restapidemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arsw_Lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="Arsw_Lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arsw_Lab4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="myrestaurant" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="restapidemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arsw_Lab3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="myrestaurant" type="462c0819:PsiDirectoryNode" />
-              <item name="restcontrollers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="restapidemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arsw_Lab3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="myrestaurant" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -223,6 +194,15 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="RestapidemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="restapidemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.eci.arsw.myrestaurant.RestapidemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -235,16 +215,17 @@
       <updated>1537051886299</updated>
       <workItem from="1537051891860" duration="764000" />
       <workItem from="1537116259066" duration="4535000" />
+      <workItem from="1537133820550" duration="766000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5299000" />
+    <option name="totallyTimeSpent" value="6065000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18926397" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19147758" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -297,8 +278,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/eci/arsw/myrestaurant/restcontrollers/OrdersAPIController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="165">
           <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/eci/arsw/myrestaurant/services/RestaurantOrderServicesStub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="96" column="68" selection-start-line="96" selection-start-column="68" selection-end-line="96" selection-end-column="68" />
         </state>
       </provider>
     </entry>
@@ -309,19 +297,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/eci/arsw/myrestaurant/services/RestaurantOrderServicesStub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="96" column="68" lean-forward="true" selection-start-line="96" selection-start-column="68" selection-end-line="96" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/eci/arsw/myrestaurant/model/Order.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
-          <caret line="55" column="30" lean-forward="true" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+          <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Static/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

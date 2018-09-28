@@ -1,4 +1,4 @@
-[heroku](https://git.heroku.com/arsw-lab4.git)
+[Heroku](https://arsw-lab4.herokuapp.com/)
 # FrontEnd - JavaScript Base Client
 
 Create a simple front end using the following frameworks:

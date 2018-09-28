@@ -15,7 +15,8 @@
 
 function addOrder() {
     var o = {"orderAmountsMap":{"HAMBURGER":2,"COKE":2,"PIZZA":1,"BEER":1},"tableNumber":5};
-    axios.post('http://localhost:8080/orders', o)
+    // axios.post('http://localhost:8080/orders', o)
+    axios.post("https://arsw-lab4.herokuapp.com/orders",o)
         .then(function (response) {
             loadOrders();
             console.log(response);
@@ -44,7 +45,8 @@ function removeOrderByTableId(tableId) {
 }
 
 function loadOrders() {
-    axios.get('http://localhost:8080/orders')
+    // axios.get('http://localhost:8080/orders')
+    axios.get("https://arsw-lab4.herokuapp.com/orders")
         .then(function (response) {
             tableGenerator(response.data);
             console.log(response);

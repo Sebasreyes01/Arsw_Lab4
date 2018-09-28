@@ -65,9 +65,10 @@ function tableGenerator(data) {
     while(main.hasChildNodes()) {
         main.removeChild((main.firstChild));
     }
-    var table = document.createElement("table");
-    var tableBody = document.createElement("tbody");
+
     for (var o = 0; o < orders.length; o++) {
+        var table = document.createElement("table");
+        var tableBody = document.createElement("tbody");
         var order = orders[o];
         var titleRow = document.createElement("tr");
         var titleCell = document.createElement("td");
@@ -102,8 +103,8 @@ function tableGenerator(data) {
         table.appendChild(tableBody);
         main.appendChild(table);
         table.setAttribute("border", "5");
-        // var lineBreak = document.createElement("BR");
-        // main.appendChild(lineBreak);
+        var lineBreak = document.createElement("BR");
+        main.appendChild(lineBreak);
     }
 }
 
